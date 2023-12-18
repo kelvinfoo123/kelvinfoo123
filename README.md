@@ -6,5 +6,5 @@
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23000000.svg?style=for-the-badge&logo=R&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![R](https://img.shields.io/badge/R-3670A0?style=for-the-badge&logo=R&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-3670A0?style=for-the-badge&logo=notion&logoColor=white)

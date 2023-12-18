@@ -4,5 +4,3 @@
 🎨 Doing projects on data science (eg. machine learning, deep learning, time series) and statistical methods (eg. survival analysis)<br/>
 💭 Currently learning about graph analytics and the relevant software used (eg. Neo4j). <br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=kelvinfoo123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>

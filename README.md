@@ -4,3 +4,5 @@
 🎨 Doing projects on data science (eg. machine learning, deep learning, time series) and statistical methods (eg. survival analysis)<br/>
 💭 Currently learning about graph analytics and the relevant software used (eg. Neo4j). <br/>
 
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

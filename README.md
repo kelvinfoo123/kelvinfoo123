@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Kelvin!
 👩🏻‍💻 Data analyst from Singapore, wanting to expand my technical knowledge and skillsets in data science and statistics.<br/>
 👩🏻‍🎓 Studied [applied mathematics](https://www.youtube.com/watch?v=rZLncodFe2k&list=PLY-3Cmky-9CLkojpWvpwhCKqaMn913g_m&index=2&t=288s) at Nanyang Technological University, Singapore.<br/>
-🎨 Doing projects on data science (eg. machine learning, deep learning, time series) and statistical methods (eg. survival analysis)<br/>
-💭 Currently learning about graph analytics and the relevant software used (eg. Neo4j). <br/>
+🎨 Doing projects on data science (eg. machine learning, deep learning, time series). <br/>
 
 # 💻 Tech Stack
 ![Excel](https://img.shields.io/badge/Excel-3670A0?style=for-the-badge&logo=Excel&logoColor=white)
